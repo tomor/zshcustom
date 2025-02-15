@@ -1,10 +1,12 @@
 # My ZSH custom directory
 
-I've created it especially to share publicly the workaround for eksctl anywhere completions workaround.
-See 'plugins/eksctl'
+I've created it especially to share publicly the workaround for `eksctl anywhere` completions workaround.
+
+See [plugins/eksctl](plugins/eksctl)
 
 
-# Custom notes:
+
+# Original notes from the 'custom' directory
 ## Plugins
 Add your own custom plugins in the custom/plugins directory. Plugins placed
 here will override ones with the same name in the main plugins directory.
