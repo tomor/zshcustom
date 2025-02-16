@@ -19,12 +19,12 @@ I've created a ticket in eksctl github repo: https://github.com/eksctl-io/eksctl
 ## eksctl plugin description
 The eksctl plugin in this repo puts the auto completions to the standard zsh completions directory.
 
-To overcome the issue described above it creates aliases `anywhere` and `an` for which the completions work.
+To overcome the issue described above it creates aliases `anywhere` and `ea` for which the completions work.
 
 ## example:
 
 ```shell
-> an <tab>
+> ea <tab>
 Use eksctl anywhere to build your own self-managing cluster on your hardware with the best of Amazon EKS
 
 Usage:

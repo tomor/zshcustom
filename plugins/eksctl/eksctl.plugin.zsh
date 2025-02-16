@@ -24,4 +24,4 @@ anywhere() {
   eksctl anywhere "$@"
 }
 # create also a shorter alias
-alias an='anywhere'
+alias ea='anywhere'
